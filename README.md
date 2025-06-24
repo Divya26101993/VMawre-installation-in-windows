@@ -9,12 +9,11 @@ This repository provides a step-by-step guide for installing VMware Workstation 
 
 ## Installation Steps
 
-### Step 1:Type "VMware Workstation Pro" into the Google search bar and hit Enter
+### Step 1:Search for 'VMware Workstation Player (or 'VMware Workstation Pro', depending on the version you want) in Google.
 
 ![Image](https://github.com/user-attachments/assets/5ebb6b73-2c87-43e7-8b2c-5db10887cf26)
 
-### Step 2: After searching for "VMware Workstation Player" in Google, click on the first link that appears, which should direct you to the official VMware Workstation page
-
+### Step 2: Click on the first link that appears in the search results, which will take you to the official VMware page
 ![Image](https://github.com/user-attachments/assets/ffc79dbb-55be-4f71-b401-1abc972ab0fd)
 
 ### Step 3:  Select Download for VMware Workstation or Fusion
@@ -31,7 +30,7 @@ Click the Download button and it will redirect you to broadcom.com page
 
 ### Step 4:Register Your Details
 
-Register for a free VMware account by entering your email address and click Next
+To download the software, you’ll need to create a free VMware account by entering your email address and clicking Next
 
 If you already have an account, simply log in to continue the download
 
@@ -49,7 +48,7 @@ After completing the registration, you will see a confirmation message. You will
 
 ### Step 5: Log in to Your Account
 
-Go to the login page, enter your registered details, and click Log In. This will take you to your account
+After registering, go to the login page, enter your details, and click Log In
 
 ![Image](https://github.com/user-attachments/assets/f5ae8867-597d-41fd-bf6e-721996bf2f5d)
 
@@ -59,7 +58,8 @@ After logging into your VMware account, navigate to the "My Downloads" section. 
 
 You will see a list of available software for download. Ensure you’re downloading the correct version for Windows (not Linux) before proceeding.
 
-Click on VMware Workstation Pro to begin the download.
+Click on VMware Workstation Pro (or VMware Workstation Player, depending on your version) to start the download
+
 ![Image](https://github.com/user-attachments/assets/1ec76d0c-8cd6-4be8-b9eb-c2a386acd849)
 
 You will see a list of available software for download. Click on VMware Workstation Pro to begin the download
@@ -95,7 +95,7 @@ Now, you can click the Download button, and the VMware file will begin downloadi
 
 ### Step 7: Verify the VMware Workstation Download
 
-Check to ensure the VMware Workstation file is ready to download. Once confirmed, double-click the file to begin the installation process.  Ensure you’re downloading the correct version for Windows (not Linux) before proceeding.
+Check to ensure the VMware Workstation file is ready to download. Once confirmed, double-click the file to begin the installation process.  Make sure to download the correct version for Windows (e.g., .exe file) to avoid issues during installation
 
 ![Image](https://github.com/user-attachments/assets/6e8da081-602d-485a-bbcc-bd49f3aac4df)
 
@@ -117,11 +117,11 @@ In the final step, you will see an Install button. Click Install to begin the in
 
 ![Image](https://github.com/user-attachments/assets/5034201b-263e-4409-a4af-dbd2b4d65de7)
 
-Once VMware is installed, you will see a Finish button. Click Finish to complete the installation.
+After installation, click Finish to complete the process. VMware Workstation will now be installed on your system
 
 ![Image](https://github.com/user-attachments/assets/275d4d1d-f413-4b66-b0ce-f79a811e596d)
 
-You will now see VMware Workstation on your desktop. Double-click the icon to open it.
+Once the installation is complete, you will find the VMware Workstation icon on your desktop. Double-click the icon to open VMware Workstation
 
 ![Image](https://github.com/user-attachments/assets/ffba4b81-c81d-4db1-9223-053e5be5f9e4)
 
