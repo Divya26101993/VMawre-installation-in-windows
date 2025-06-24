@@ -128,3 +128,30 @@ Once the installation is complete, you will find the VMware Workstation icon on 
 ![Image](https://github.com/user-attachments/assets/0070638d-8d75-4920-96a5-37218af51a19)
 
 
+
+--------------------------
+
+
+## Troubleshooting
+
+       Issue                                                   Solution
+
+ VM won’t start                                -         Restart VMware Workstation and try again
+ Cannot drag and drop files between host and VM-         Install or update VMware Tools in the VM
+ Virtual machine screen is very small          -         Install VMware Tools to enable auto-resizing of the screen
+
+ ## Resources
+
+  VMware file -(https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion )
+
+ 
+ ## Author
+ 
+Github: [Divya26101993](https://github.com/Divya26101993/VMawre-installation-in-windows/edit/main/README.md)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE)
+
+
+     
