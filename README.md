@@ -1,4 +1,4 @@
-# VMawre workstation-installation-in-windows
+# VMware workstation-installation-in-windows
 
 This repository provides a step-by-step guide for installing VMware Workstation Player on Windows, complete with screenshots. Perfect for setting up virtual machines and testing environments like Active Directory.
 
@@ -17,7 +17,7 @@ This repository provides a step-by-step guide for installing VMware Workstation 
 
 ![Image](https://github.com/user-attachments/assets/ffc79dbb-55be-4f71-b401-1abc972ab0fd)
 
-### Step 3: Step 3: Select Download for VMware Workstation or Fusion
+### Step 3:  Select Download for VMware Workstation or Fusion
 
 After clicking the first link from the search results, you’ll be directed to the official VMware page by Broadcom
 
@@ -26,6 +26,7 @@ On this page, you’ll see option Download Fusion or workstation
 Click the Download button and it will redirect you to broadcom.com page
 
 ![Image](https://github.com/user-attachments/assets/06c24fd4-913e-4c3e-981f-60df33221929)
+
 ![Image](https://github.com/user-attachments/assets/fb719679-f573-4f73-aca7-93b517d476ae)
 
 ### Step 4:Register Your Details
@@ -40,13 +41,7 @@ Once you click Next, you will be asked to provide your personal details. Fill in
 
 ![Image](https://github.com/user-attachments/assets/c7a49439-5a93-46af-bb47-b5a74db8d298)
 
-After completing the registration, you will see a confirmation message saying you’ve registered successfully. You will then be presented with two options:
-
-Yes, I want to build my profile
-
-I’ll do it later
-
-Select the second option, "I’ll do it later"
+After completing the registration, you will see a confirmation message. You will be presented with two options: "Yes, I want to build my profile" or "I’ll do it later". For now, choose "I’ll do it later" to skip building your profile.
 
 ![Image](https://github.com/user-attachments/assets/4bb34083-3fb5-436b-be2c-78287769d4f4)
 
@@ -60,7 +55,7 @@ Go to the login page, enter your registered details, and click Log In. This will
 
 ### Step 6: Access My account
 
-Once logged into your account, navigate to My Downloads. There, click on the "Free Software Download Available Here" link.
+After logging into your VMware account, navigate to the "My Downloads" section. Click on the "Free Software Download Available Here" link to begin downloading VMware Workstation Pro.
 
 ![Image](https://github.com/user-attachments/assets/1ec76d0c-8cd6-4be8-b9eb-c2a386acd849)
 
@@ -76,12 +71,12 @@ VMware Workstation Pro 17.0 for Linux
 
 ![Image](https://github.com/user-attachments/assets/96dbbd6d-0d75-43db-baf3-65c5fe300f4e)
 
-Click on the Windows option. You will then be presented with a list of releases. For this tutorial, I have selected version 17.6.2
+**Click on the Windows option**. You will then be presented with a list of releases. For this tutorial, I have selected version 17.6.2
 
 ![Image](https://github.com/user-attachments/assets/c854aa71-fcdb-477b-9160-b8b47ecc52c6)
 
+After agreeing to the Terms and Conditions, you will need to click the "Download" button. The VMware file will begin downloading immediately after.
 
-Next, you will need to agree to the Terms and Conditions. Click on the Terms and Conditions link to open the full document. Only after the document opens will you be able to check the box to accept the terms; otherwise, you won't be able to proceed.
 
 ![Image](https://github.com/user-attachments/assets/e84bcaef-70a6-4b92-902a-0db9690cb5dd)
 
@@ -97,11 +92,11 @@ Now, you can click the Download button, and the VMware file will begin downloadi
 
 ### Step 7: Verify the VMware Workstation Download
 
-Check to ensure the VMware Workstation file is ready to download. Once confirmed, double-click the file to begin the installation process.
+Check to ensure the VMware Workstation file is ready to download. Once confirmed, double-click the file to begin the installation process.  Ensure you’re downloading the correct version for Windows (not Linux) before proceeding.
 
 ![Image](https://github.com/user-attachments/assets/6e8da081-602d-485a-bbcc-bd49f3aac4df)
 
-Next, the VMware Workstation Setup window will open. Click Next to proceed, following the steps shown in the screenshots below.
+Next, the VMware Workstation Setup window will open. Click Next to proceed, following the steps shown in the screenshots below. Once the download begins, it may take several minutes depending on your internet connection. Be patient as the file size is quite large.
 
 ![Image](https://github.com/user-attachments/assets/c71fa779-df66-4904-bfbb-9629adb479fe)
 
@@ -121,7 +116,7 @@ In the final step, you will see an Install button. Click Install to begin the in
 
 Once VMware is installed, you will see a Finish button. Click Finish to complete the installation.
 
-![Image](https://github.com/user-attachments/assets/275d4d1d-f413-4b66-b0ce-f79a811e596d
+![Image](https://github.com/user-attachments/assets/275d4d1d-f413-4b66-b0ce-f79a811e596d)
 
 You will now see VMware Workstation on your desktop. Double-click the icon to open it.
 
