@@ -57,6 +57,9 @@ Go to the login page, enter your registered details, and click Log In. This will
 
 After logging into your VMware account, navigate to the "My Downloads" section. Click on the "Free Software Download Available Here" link to begin downloading VMware Workstation Pro.
 
+You will see a list of available software for download. Ensure you’re downloading the correct version for Windows (not Linux) before proceeding.
+
+Click on VMware Workstation Pro to begin the download.
 ![Image](https://github.com/user-attachments/assets/1ec76d0c-8cd6-4be8-b9eb-c2a386acd849)
 
 You will see a list of available software for download. Click on VMware Workstation Pro to begin the download
