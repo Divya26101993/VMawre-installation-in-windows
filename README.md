@@ -9,7 +9,7 @@ This repository provides a step-by-step guide for installing VMware Workstation 
 
 ## Installation Steps
 
-### Step 1:Search for 'VMware Workstation Player (or 'VMware Workstation Pro', depending on the version you want) in Google.
+### Step 1:Search for 'VMware Workstation Player' (or 'VMware Workstation Pro', depending on the version you want) on Google
 
 ![Image](https://github.com/user-attachments/assets/5ebb6b73-2c87-43e7-8b2c-5db10887cf26)
 
@@ -36,7 +36,7 @@ If you already have an account, simply log in to continue the download
 
 ![Image](https://github.com/user-attachments/assets/0777b682-42aa-45b3-9570-b40b9bda2bea)
 
-Once you click Next, you will be asked to provide your personal details. Fill in all the required information and click Create Account
+After clicking Next, provide your personal details, then click Create Account. Fill in all the required information and click Create Account
 
 ![Image](https://github.com/user-attachments/assets/c7a49439-5a93-46af-bb47-b5a74db8d298)
 
